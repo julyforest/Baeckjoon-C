@@ -1,0 +1,4 @@
+﻿  0201.c
+C:\Users\leeha\Desktop\projects\C\Baekjoon C\Baekjoon C\0201.c(26,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\leeha\Desktop\projects\C\Baekjoon C\Baekjoon C\0201.c(26,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+C:\Users\leeha\Desktop\projects\C\Baekjoon C\Baekjoon C\0201.c(25,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
