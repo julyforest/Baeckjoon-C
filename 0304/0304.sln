@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0304", "0304", "{410D98E5-F8D5-4CAE-9E16-7E9616880A22}"
+	ProjectSection(SolutionItems) = preProject
+		10818.c = 10818.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCEEB82-847C-4515-8A95-781FB7DD96A9}
+	EndGlobalSection
+EndGlobal

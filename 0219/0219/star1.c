@@ -9,6 +9,10 @@ int main() {
 		printf("\n");
 	}
 	
+	int n;
+	sacnf_s("%d", \n);
+	for(int i = 1; i <= n; i++)
+	
 
 	return 0;
 }
